@@ -1,0 +1,77 @@
+body {
+	background-color: #fbeec1;
+}
+
+#navbar {
+	padding-left: 50px;
+}
+
+#maintitle {
+	padding-top: 50px;
+	font-family: "Raleway", sans-serif;
+	font-size: 50px;
+	text-decoration: none;
+	color: black;
+}
+
+.products{
+	border-collapse: collapse;
+	padding: 20px;
+	background-color: #bc986a;
+}
+
+.loginsystem {
+	text-align: right;
+	padding-right: 50px;
+	font-size: 20px;
+}
+
+.logintext {
+	text-decoration: none;
+}
+
+.logintext:hover {
+	color: red;
+}
+
+.barelem {
+    background-color: #bc986a;
+    border: 0;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration-style: bold;
+    border-radius: 12px;
+    font-size: 20px;
+}
+
+.barelem:hover {
+	background-color: #555;
+    color: white;
+}
+
+.nav {
+	display: inline-block;
+}
+
+#rendelform {
+	float: right;
+	padding-right: 10%;
+}
+
+#footer {
+	float: right;
+	padding-right: 10%;
+	size: 24px;
+	font-weight: bold;
+	color: red;
+}
+
+#copyrighttext {
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+}
